@@ -53,6 +53,5 @@
 
   </style>
   <h1>helloworld</h1>
-  $END$
   </body>
 </html>
