@@ -1,8 +1,4 @@
-1111<<<<<<< HEAD
 wwww
 qqqq
 wwww
 zzzz
-=======
-qqqq
->>>>>>> parent of a7c0db5... 3
